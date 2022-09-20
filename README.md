@@ -1,6 +1,6 @@
-# UNODCmarinedatavisualization
+# UNODC marine data visualization
 
-# Pelatihan Google Earth Engine untuk Pengembangan Aplikasi Monitoring Hutan
-Module pelatihan ini dikembangkan oleh [Dr. Eng. Masita Dwi Mandini Manessa](https://www.linkedin.com/in/masita-dwi-mandini-manessa-93b155170/) untuk Program **Pelatihan pengunaan data penginderaan jauh untuk investigasi pembalakan liar'** di Provinsi Papua. Kegiatan ini didanai oleh UNODC project  
+# Pelatihan Visualisasi Data Kemaritiman untuk Penanganan Kejahatan Laut
+Module pelatihan ini dikembangkan oleh [Dr. Eng. Masita Dwi Mandini Manessa](https://www.linkedin.com/in/masita-dwi-mandini-manessa-93b155170/) untuk Program **elatihan Visualisasi Data Kemaritiman untuk Penanganan Kejahatan Laut** di KEMENKO MARVES. Kegiatan ini didanai oleh UNODC project  
 
 --------------
